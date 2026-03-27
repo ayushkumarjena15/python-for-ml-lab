@@ -1,0 +1,12 @@
+d1={
+    "name":"pal",
+    "collage":"GIETU",
+    "roll":22,
+    "mark":92.5
+}
+x=d1.keys()
+y=d1.values()
+z=d1.items()
+print(x)
+print(y)
+print(z)
